@@ -1,0 +1,11 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",205.613000,-95.250000,0.000000,bottom
+"C2","10uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",205.613000,-97.370900,0.000000,bottom
+"C3","100uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",174.625000,-87.757000,0.000000,bottom
+"C4","10uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",169.354500,-92.646500,180.000000,bottom
+"C5","10uF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",170.180000,-86.233000,180.000000,bottom
+"C6","10uf","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",179.315000,-87.884000,180.000000,bottom
+"D1","BAT54SW","SOT-323_SC-70",170.434000,-89.789000,270.000000,bottom
+"R1","4.7k","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",180.276500,-84.963000,270.000000,bottom
+"R2","1000","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",166.878000,-96.456500,90.000000,bottom
+"R3","2000","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",170.434000,-96.456500,270.000000,bottom

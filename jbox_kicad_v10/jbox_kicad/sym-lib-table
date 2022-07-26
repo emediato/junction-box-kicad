@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ESP32_mini)(type Legacy)(uri /home/monica/Desktop/KiCad/jbox_kicad/ESP32_mini_KiCad_Library-master/ESP32_mini.lib)(options "")(descr ""))
+  (lib (name Custom_dc_dc_small)(type Legacy)(uri "/home/monica/Desktop/Usina Fotovoltaica/Artigo/PCB/Custom_dc_dc_small.lib")(options "")(descr "")(disabled))
+  (lib (name Custom_dc_dc_small_lm)(type Legacy)(uri "/home/monica/Desktop/Usina Fotovoltaica/Artigo/PCB/Custom_dc_dc_small.lib")(options "")(descr "")(disabled))
+)

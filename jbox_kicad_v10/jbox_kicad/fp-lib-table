@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ESP32_mini)(type KiCad)(uri "/home/monica/Desktop/Usina Fotovoltaica/Artigo/PCB/ESP32_mini_KiCad_Library-master/ESP32_mini.pretty")(options "")(descr ""))
+  (lib (name lm2596)(type KiCad)(uri "/home/monica/Desktop/Usina Fotovoltaica/Artigo/PCB")(options "")(descr ""))
+  (lib (name DC_DC_LM2596_small)(type KiCad)(uri "/home/monica/Desktop/Usina Fotovoltaica/Artigo/PCB/DC_DC_LM2596_small.pretty")(options "")(descr ""))
+)
