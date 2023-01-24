@@ -4,6 +4,8 @@ Although the values of the voltages will be different for an ESP32, the same pri
 
 https://community.openenergymonitor.org/t/emonlib-esp32-how-to-calibrate/11465/10
 
+https://github.com/espressif/esp-idf/issues/164#issuecomment-744602578
+
 
 https://esp32tutorials.com/esp32-pwm-esp-idf-led-brightness-control/
 
